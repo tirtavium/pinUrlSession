@@ -1,0 +1,16 @@
+PODS:
+  - pinUrlSession (0.1.0)
+
+DEPENDENCIES:
+  - pinUrlSession (from `../`)
+
+EXTERNAL SOURCES:
+  pinUrlSession:
+    :path: ../
+
+SPEC CHECKSUMS:
+  pinUrlSession: de5d6828e35f995737e69abd824284894ee0c89a
+
+PODFILE CHECKSUM: 26c717e47a1783804905b721106d174a1a40c501
+
+COCOAPODS: 1.2.1

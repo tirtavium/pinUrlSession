@@ -1,0 +1,6 @@
+framework module pinUrlSession {
+  umbrella header "pinUrlSession-umbrella.h"
+
+  export *
+  module * { export * }
+}

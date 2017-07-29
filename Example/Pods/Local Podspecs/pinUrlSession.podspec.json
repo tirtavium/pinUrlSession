@@ -1,0 +1,22 @@
+{
+  "name": "pinUrlSession",
+  "version": "0.1.0",
+  "summary": "A short description of pinUrlSession.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tirta/pinUrlSession",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tirta": "tirtavium@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Tirta/pinUrlSession.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pinUrlSession/Classes/**/*"
+}
