@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'pinUrlSession_Example' do
+  pod 'pinUrlSession', :path => '../'
+
+  target 'pinUrlSession_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
